@@ -5,7 +5,7 @@ import threading
 import time
 import requests
 import sys
-room = "test"
+room = ""
 ini = 10.0
 thr = False
 rst = True
